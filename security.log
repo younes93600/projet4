@@ -7,3 +7,20 @@
 2025-12-11 13:56:19 - WARNING - LOGIN: Échec pour 'admin ae' (Utilisateur inconnu).
 2025-12-11 13:56:31 - WARNING - LOGIN: Échec pour 'admin' (Utilisateur inconnu).
 2025-12-11 13:56:51 - WARNING - LOGIN: Échec pour 'Admin' (Mauvais mot de passe).
+2025-12-15 09:48:00 - INFO - INSCRIPTION: Nouvel utilisateur 'caca' créé.
+2025-12-15 09:48:14 - INFO - LOGIN: Succès pour l'utilisateur 'caca'.
+2025-12-15 10:51:58 - INFO - LOGIN: Succès pour 'caca'.
+2025-12-15 10:54:14 - INFO - LOGIN: Succès pour 'caca'.
+2025-12-15 10:56:20 - INFO - LOGIN: Succès pour 'caca'.
+2025-12-17 15:39:46 - INFO - LOGIN: Succès pour 'caca'.
+2025-12-17 15:39:56 - INFO - ACTION: Produit 3 ajouté par caca.
+2025-12-17 15:40:06 - INFO - ACTION: Produit 4 ajouté par caca.
+2025-12-17 15:40:27 - INFO - ACTION: Produit 5 ajouté par caca.
+2025-12-20 23:14:10 - INFO - LOGIN: Succès pour 'caca'.
+2025-12-20 23:23:38 - INFO - LOGOUT: caca déconnecté.
+2025-12-20 23:23:45 - WARNING - LOGIN: Échec pour 'caca' (Mauvais pass).
+2025-12-20 23:23:53 - INFO - LOGIN: Succès pour 'caca'.
+2025-12-20 23:24:41 - INFO - ACTION: Produit 6 ajouté par caca.
+2025-12-20 23:25:00 - INFO - LOGOUT: caca déconnecté.
+2025-12-20 23:26:09 - INFO - LOGIN: Succès pour 'caca'.
+2026-01-01 18:05:00 - WARNING - INSCRIPTION: Refus mot de passe Pwned pour 'zizi' (141287 fois).
