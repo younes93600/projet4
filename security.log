@@ -1,0 +1,49 @@
+2026-01-05 17:06:13 - INFO - SECURITY: Connexion reussie - User: admine
+2026-01-05 17:06:47 - INFO - SECURITY: Deconnexion - User: admine
+2026-01-05 17:06:50 - WARNING - SECURITY: Echec mot de passe - User: admine
+2026-01-05 17:07:04 - WARNING - SECURITY: Tentative creation avec MDP compromis - User: adminee
+2026-01-05 17:11:56 - WARNING - SECURITY: Refus MDP compromis (141287 fois) - User: azer
+2026-01-05 17:12:15 - INFO - SECURITY: Connexion reussie - User: admine
+2026-01-05 17:12:36 - INFO - VENTE: 2x G.Skill Trident Z5 Neo 64GB (499.8�) - Client: jules
+2026-01-05 17:20:18 - WARNING - SECURITY: Echec mot de passe - User: admine
+2026-01-05 17:20:24 - INFO - SECURITY: Connexion reussie - User: admine
+2026-01-05 17:20:40 - INFO - VENTE: 2x Razer DeathAdder V3 Pro (319.98�) - Client: antoine
+2026-01-05 17:24:48 - INFO - SECURITY: Connexion reussie - User: admine
+2026-01-05 17:25:12 - INFO - VENTE: 1x MSI MAG B650 Tomahawk WiFi (239.9�) - Client: robin
+2026-01-05 17:25:12 - INFO - VENTE: 1x Corsair 4000D Airflow Blanc (109.9�) - Client: robin
+2026-01-05 17:34:34 - INFO - SECURITY: Connexion reussie - User: admine
+2026-01-05 17:34:47 - INFO - VENTE: 1x ASUS ROG Strix Z790-E Gaming (499.9�) - Client: adam [ID: 3415fe52]
+2026-01-05 17:34:47 - INFO - VENTE: 1x Samsung 990 PRO 2TB NVMe (179.9�) - Client: adam [ID: 3415fe52]
+2026-01-05 17:34:47 - INFO - VENTE: 1x ASUS ROG Strix Z790-E Gaming (499.9�) - Client: adam [ID: 3415fe52]
+2026-01-07 16:31:19 - WARNING - SECURITY: Tentative connexion utilisateur inconnu - admne
+2026-01-07 16:31:23 - WARNING - SECURITY: Tentative connexion utilisateur inconnu - admnie
+2026-01-07 16:31:29 - INFO - SECURITY: Connexion reussie - User: admine
+2026-01-07 16:32:03 - INFO - VENTE: 1x Intel Core i9-14900K (629.99�) - Client: mathys [ID: e299fdfe]
+2026-01-07 16:32:03 - INFO - VENTE: 1x WD_BLACK SN850X 1TB NVMe (99.9�) - Client: mathys [ID: e299fdfe]
+2026-01-07 16:34:36 - INFO - SECURITY: Deconnexion - User: admine
+2026-01-08 11:43:16 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 11:43:22 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 11:43:23 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 11:43:24 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 11:43:51 - INFO - SECURITY: Nouveau compte cree - User: admin
+2026-01-08 11:47:41,362 - INFO - INVENTAIRE: Ajout produit #31 API Test Widget
+2026-01-08 11:47:41,371 - INFO - INVENTAIRE: Update produit #31
+2026-01-08 11:47:41,382 - INFO - INVENTAIRE: Update produit #31
+2026-01-08 11:47:41,399 - INFO - INVENTAIRE: Delete produit #31
+2026-01-08 11:54:25,063 - INFO - INVENTAIRE: Ajout produit #31 API Test Widget
+2026-01-08 11:54:25,067 - INFO - INVENTAIRE: Update produit #31
+2026-01-08 11:54:25,073 - INFO - INVENTAIRE: Update produit #31
+2026-01-08 11:54:25,087 - INFO - INVENTAIRE: Delete produit #31
+2026-01-08 11:54:45,201 - INFO - INVENTAIRE: Ajout produit #31 API Test Widget
+2026-01-08 11:54:45,205 - INFO - INVENTAIRE: Update produit #31
+2026-01-08 11:54:45,210 - INFO - INVENTAIRE: Update produit #31
+2026-01-08 11:54:45,224 - INFO - INVENTAIRE: Delete produit #31
+2026-01-08 12:23:07 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 12:23:13 - WARNING - SECURITY: Tentative connexion utilisateur inconnu - caca
+2026-01-08 12:23:14 - WARNING - SECURITY: Tentative connexion utilisateur inconnu - caca
+2026-01-08 12:23:35 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 12:23:36 - WARNING - SECURITY: Echec mot de passe - User: admin
+2026-01-08 12:23:43 - INFO - SECURITY: Connexion reussie - User: admin
+2026-01-08 15:51:00,048 - INFO - INVENTAIRE: Delete produit #1
+2026-01-08 17:40:12,361 - INFO - INVENTAIRE: Ajout produit #31 rtx 5090
+2026-01-08 17:40:13,178 - INFO - INVENTAIRE: Ajout produit #32 rtx 5090

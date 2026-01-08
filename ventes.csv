@@ -1,0 +1,9 @@
+date;tid;id_prod;nom;prix;qte;total;client
+2026-01-05;3415fe52;4;ASUS ROG Strix Z790-E Gaming;499.9;1;499.9;adam
+2026-01-05;3415fe52;8;Samsung 990 PRO 2TB NVMe;179.9;1;179.9;adam
+2026-01-05;3415fe52;4;ASUS ROG Strix Z790-E Gaming;499.9;1;499.9;adam
+2026-01-07;e299fdfe;3;Intel Core i9-14900K;629.99;1;629.99;mathys
+2026-01-07;e299fdfe;9;WD_BLACK SN850X 1TB NVMe;99.9;1;99.9;mathys
+2026-01-08;3aea1d7f;31;API Test Widget Updated;199.99;2;399.98;Test Client API
+2026-01-08;df3839a3;31;API Test Widget Updated;199.99;2;399.98;Test Client API
+2026-01-08;f706df3b;31;API Test Widget Updated;199.99;2;399.98;Test Client API
