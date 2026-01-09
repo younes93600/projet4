@@ -4,3 +4,4 @@ python-jose[cryptography]
 python-multipart
 pydantic
 requests
+python-dotenv

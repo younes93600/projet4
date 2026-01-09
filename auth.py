@@ -1,4 +1,6 @@
 import hashlib
+import os
+from dotenv import load_dotenv
 from datetime import datetime, timedelta
 from typing import Optional
 from jose import JWTError, jwt
@@ -7,10 +9,13 @@ from fastapi.security import OAuth2PasswordBearer
 from database import get_user_credentials
 
 # CONFIGURATION
-# [SECURITY WARNING]
-# Cette clé est en dur dans le code pour la démonstration.
-# En production, utilisez une variable d'environnement (os.environ.get) pour éviter de l'exposer.
-SECRET_KEY = "votre_cle_secrete_super_securisee_a_changer_en_prod"
+
+load_dotenv()
+
+# CONFIGURATION
+SECRET_KEY = os.environ.get("SECRET_KEY")
+if not SECRET_KEY:
+    raise ValueError("SECRET_KEY environment variable is not set")
 ALGORITHM = "HS256"
 ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
