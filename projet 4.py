@@ -1,4 +1,5 @@
 import webview
+import requests
 import csv
 import os
 import hashlib
@@ -127,8 +128,11 @@ def verifier_leak_pwned(password):
     sha1_password = hashlib.sha1(password.encode('utf-8')).hexdigest().upper()
     prefix, suffix = sha1_password[:5], sha1_password[5:]
     url = f"https://api.pwnedpasswords.com/range/{prefix}"
+    headers = {
+        'User-Agent': 'SaaS-Stock-Manager-Pro/1.0'
+    }
     try:
-        response = requests.get(url, timeout=3)
+        response = requests.get(url, headers=headers, timeout=3)
         if response.status_code != 200: return False, 0
         hashes = (line.split(':') for line in response.text.splitlines())
         for h, count in hashes:

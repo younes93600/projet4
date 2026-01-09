@@ -47,3 +47,11 @@
 2026-01-08 15:51:00,048 - INFO - INVENTAIRE: Delete produit #1
 2026-01-08 17:40:12,361 - INFO - INVENTAIRE: Ajout produit #31 rtx 5090
 2026-01-08 17:40:13,178 - INFO - INVENTAIRE: Ajout produit #32 rtx 5090
+2026-01-09 12:15:23 - INFO - SECURITY: Nouveau compte cree - User: robin
+2026-01-09 12:15:50 - WARNING - SECURITY: Tentative connexion utilisateur inconnu - a
+2026-01-09 12:15:53 - INFO - SECURITY: Nouveau compte cree - User: a
+2026-01-09 12:21:24 - WARNING - SECURITY: Refus MDP compromis (141287 fois) - User: robin
+2026-01-09 12:22:05 - WARNING - SECURITY: Refus MDP compromis (422197 fois) - User: robin
+2026-01-09 12:24:43 - INFO - SECURITY: Connexion reussie - User: admin
+2026-01-09 12:25:00 - INFO - VENTE: 2x Intel Core i9-14900K (1259.98�) - Client: younes [ID: 9c3558e5]
+2026-01-09 12:25:00 - INFO - VENTE: 2x Samsung 990 PRO 2TB NVMe (359.8�) - Client: younes [ID: 9c3558e5]
